@@ -42,6 +42,82 @@ The design goal is to have a good booking system that has a simple but lovely UI
 # " A good user-friendly interface makes it easier for users to find what they are looking for and then to easily check out once they have found it !!!" -- by clarance
 
 
+# DESIGN
+
+A. Color styles:
+
+     1. Primary Color [34967C] 🟢
+     2. Secondary Color [161117] ⚫  
+     3. Secondary Color [FFA800] 🟡 
+     4. Shimmer [E6E6E6] [EDEDED] ⚪
+
+B. Typography (front family, font weight, font size):
+
+    1. font family: Sourse Sans Pro
+    2. Font Weight: Semi Bold
+    3. Font Size: 94
+
+    1. font family: Quick sand
+    2. Font Weight: Semi Bold
+    3. Font Size: 16
+
+    1. font family: Quick Sand
+    2. Font Weight: Semi Bold
+    3. Font Size: 14
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 14
+
+    1. font family: Quick Sand
+    2. Font Weight: Regular
+    3. Font Size: 13
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 24
+
+    1. font family: Quick Sand
+    2. Font Weight: Semi-Bold
+    3. Font Size: 19
+
+    1. font family: Quick Sand
+    2. Font Weight: Semi bold
+    3. Font Size: 22
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 12.16
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 20
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 17
+
+    1. font family: Quick Sand
+    2. Font Weight: Semi bold
+    3. Font Size: 25
+
+    1. font family: Quick Sand
+    2. Font Weight: Medium
+    3. Font Size: 16
+
+#. The Importance of Visually Appealing Mockups in UI/UX Design. 
+
+    They provide a realistic visual preview of a digital interface, ensuring that concepts evolve smoothly before entering the development phase. 
+         Read more on this here [https://www.kaarwan.com/blogs/ui-ux-design/the-importance-of-visually-appealing-mockups-in-ui-ux-design?id=1029]
+    
+
+
+
+    
+
+    
+
+
 
         
       

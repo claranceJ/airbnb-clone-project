@@ -112,6 +112,7 @@ Read more on this here [ https://www.kaarwan.com/blogs/ui-ux-design/the-importan
     
 
 
+
 # Project Roles and Responsibilities. Team Roles 👥
 
 # 1. Project Manager (PM) 🗂️
@@ -202,9 +203,23 @@ Key Responsibilities:
         Coach the team on Agile principles and practices.
         Ensure continuous improvement within the team.
 
+
  
 
-    
+
+# UI Component Patterns
+
+ - 1. Navbar
+      
+          This Component focuses on user-friendly navigation and visual appeal.
+ 
+ - 2. Property Card
+      
+           This component shows a clean and modern property listing, with a title, price, and a brief description.
+   
+ - 3. Footer
+
+          Contains information like copyright notices, navigation links, and other relevant legal or company information
 
     
 

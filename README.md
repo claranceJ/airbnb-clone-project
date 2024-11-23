@@ -2,7 +2,7 @@
 This repo contains the source code and files for the airbnb-clone-project.
 
 # Description.
-The goal of this project is to give me practical experience in developing a simple booking and management system using AirBnB as a case study.
+A booking management system using AirBnb as a case study to give me practical experience in developing booking and management systems.
 
 # Goal.
 This goal of this project is to help me develope adequate knowledge and skills to implement any type of system(Prodev).
@@ -34,8 +34,7 @@ The design goal is to have a good booking system that has a simple but lovely UI
         
       <img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/013fb4a9-dd4d-4669-96d8-998d2fa6c4c1">
 
-# " A good user-friendly interface makes it easier for users to find what they are looking for and then to easily check-out once they have found it !!!
-" -- by clarance
+# " A good user-friendly interface makes it easier for users to find what they are looking for and then to easily check-out once they have found it !!!" -- by clarance
 
 
         

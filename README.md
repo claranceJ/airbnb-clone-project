@@ -16,13 +16,15 @@ This goal of this project is to help me develope adequate knowledge and skills t
 # UI/UX Design Planning.
 The design goal is to have a good booking system that has a simple but lovely UI/UX that allows users to perform basic functionalities.
 
-   1. Key features.  
-   - Property Listings: Display properties with relevant details and images.
-   - Booking System: Allow users to book properties, view booking details, and manage bookings.
-   - Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
-   - User Authentication: Secure login and registration for users.
+   # 1. Key features.  
+       
+       - Property Listings: Display properties with relevant details and images.
+       - Booking System: Allow users to book properties, view booking details, and manage bookings.
+       - Search Functionality: Enable users to search for properties based on various criteria (location, price, availability).
+       - User Authentication: Secure login and registration for users.
 
-   2. Primary Pages.
+   # 2. Primary Pages.
+   
       - Page 1:This is the main interface of the AirBnB clone. It shows a clean and modern layout with various property listings displayed, each with a title, price, and a brief description. The design focuses on user-friendly navigation and visual appeal.
         <img width="407" alt="airbnb-1" src="https://github.com/user-attachments/assets/d3c75178-e009-466e-aa42-0ece31d878a6">
 

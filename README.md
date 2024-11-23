@@ -32,8 +32,7 @@ The design goal is to have a good booking system that has a simple but lovely UI
 - PAGE 2(Listing Detailed View,): This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters.
         
    <img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/78798195-b2d6-45e5-95ba-77188ebde039"
-  <img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/ae7dba81-a0fa-440f-a5a8-03ae0ab01a27">
->
+
         
 - PAGE 3(Simple Checkout View ): This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience.
         

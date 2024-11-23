@@ -107,8 +107,8 @@ B. Typography (front family, font weight, font size):
 
 # The Importance of Visually Appealing Mockups in UI/UX Design. 
 
-    They provide a realistic visual preview of a digital interface, ensuring that concepts evolve smoothly before entering the development phase. 
-         Read more on this here [ https://www.kaarwan.com/blogs/ui-ux-design/the-importance-of-visually-appealing-mockups-in-ui-ux-design?id=1029] 
+Mockups provide a realistic visual preview of a digital interface, ensuring that concepts evolve smoothly before entering the development phase. 
+Read more on this here [ https://www.kaarwan.com/blogs/ui-ux-design/the-importance-of-visually-appealing-mockups-in-ui-ux-design?id=1029] 
     
 
 

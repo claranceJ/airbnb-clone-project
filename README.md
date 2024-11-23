@@ -1,10 +1,10 @@
-#airbnb-clone-project
+# airbnb-clone-project
 This repo contains the source code and files for the airbnb-clone-project.
 
-#Description
+# Description
 The goal of this project is to give me practical experience in developing a simple booking and management system using AirBnB as a case study.
 
-##Goal
+# Goal
 This goal of this project is to help me develope adequate knowledge and skills to implement any type of system(Prodev).
 
 # Technologies Used

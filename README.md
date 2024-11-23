@@ -5,13 +5,13 @@ This repo contains the source code and files for the airbnb-clone-project.
 A booking management system using AirBnb as a case study to give me practical experience in developing booking and management systems.
 
 # Goal.
-This goal of this project is to help me develope adequate knowledge and skills to implement any type of system(Prodev).
+This goal of this project is to help me develop adequate knowledge and skills to implement any type of system(Prodev).
 
 # Technologies Used.
 
     Frontend: React with TypeScript, Next.js for server-side rendering and static site generation, TailwindCSS for styling.
     Backend: Python, Django, and MySQL (for illustration purposes; the backend is not the primary focus).
-    Other Tools: Redux or Context API for state management, REST for API integration, Jest for testing.
+    Other Tools: Redux or Context API for state management, REST for API integration, and Jest for testing.
 
 # UI/UX Design Planning.
 The design goal is to have a good booking system that has a simple but lovely UI/UX that allows users to perform basic functionalities.
@@ -31,7 +31,7 @@ The design goal is to have a good booking system that has a simple but lovely UI
 
 - PAGE 2(Listing Detailed View,): This page illustrates a detailed view of a specific property listing within the AirBnB clone. It highlights key features such as the property’s name, location, price, and additional details like amenities. The interface emphasizes clarity and ease of use for potential renters.
         
-   <img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/78798195-b2d6-45e5-95ba-77188ebde039"
+   <img width="410" alt="airbnb-2" src="https://github.com/user-attachments/assets/78798195-b2d6-45e5-95ba-77188ebde039">
 
         
 - PAGE 3(Simple Checkout View ): This page showcases the booking or reservation process for the selected property in the AirBnB clone. It may include options for selecting dates, the number of guests, and finalizing the booking. The design is streamlined to ensure a smooth user experience.
@@ -39,7 +39,7 @@ The design goal is to have a good booking system that has a simple but lovely UI
   <img width="409" alt="airbnb-3" src="https://github.com/user-attachments/assets/013fb4a9-dd4d-4669-96d8-998d2fa6c4c1">
 
 
-# " A good user-friendly interface makes it easier for users to find what they are looking for and then to easily check out once they have found it !!!" -- by clarance
+# " A good user-friendly interface makes it easier for users to find what they are looking for and then to easily check out once they have found it !!!" -- by ClaranceJ
 
 
 # DESIGN
@@ -105,10 +105,10 @@ B. Typography (front family, font weight, font size):
     2. Font Weight: Medium
     3. Font Size: 16
 
-#. The Importance of Visually Appealing Mockups in UI/UX Design. 
+# The Importance of Visually Appealing Mockups in UI/UX Design. 
 
     They provide a realistic visual preview of a digital interface, ensuring that concepts evolve smoothly before entering the development phase. 
-         Read more on this here [https://www.kaarwan.com/blogs/ui-ux-design/the-importance-of-visually-appealing-mockups-in-ui-ux-design?id=1029]
+         Read more on this here [ https://www.kaarwan.com/blogs/ui-ux-design/the-importance-of-visually-appealing-mockups-in-ui-ux-design?id=1029] 
     
 
 
